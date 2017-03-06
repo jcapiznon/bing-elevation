@@ -1,0 +1,8 @@
+{
+  "apiKey": {
+    "label": "Bing Maps Key",
+    "type": "Password",
+    "required": true,
+    "help": "Your Bing Maps API Key."
+  }
+}
